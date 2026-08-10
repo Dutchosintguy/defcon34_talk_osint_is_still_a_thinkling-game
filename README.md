@@ -3,4 +3,4 @@
 Slides and link to recording for my defcon34 talk
 
 
-Link to recorded talk: <TBA>
+Link to recorded talk: TBA
