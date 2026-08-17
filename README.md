@@ -4,3 +4,5 @@ Slides and link to recording for my defcon34 talk (https://github.com/Dutchosint
 
 
 Link to re-recorded talk: (https://www.youtube.com/watch?v=a3kSH59s6q8)
+
+OSINT AI DEFCON34 TALK DUTCHOSINTGUY
