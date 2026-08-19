@@ -135,9 +135,7 @@ But AI should not quietly replace the parts of intelligence work that make intel
 - Uncertainty
 - Accountability
 
-## Suggested Citation
 
-Nico Dekens, "OSINT Is Still a Thinking Game: Surviving AI Without Losing Tradecraft," DEF CON 34 / Recon Village, 2026.
 
 ## Further Reading
 
